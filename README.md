@@ -1,0 +1,3 @@
+- 👋 Hi,  meu nome é Rhayane Cassal
+- 🌱 I’m currently learning  python, htaml, css e javascript
+- 📫 Instagram: @_kferreira02
